@@ -1,40 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:ІП-90" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:ІП-90" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b416e29-9ac3-4d1d-b2a9-8ae097ea897a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/myPackage/SeaBoatHeir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ІП_90/_00_Алещенко_Олексій_Вадимович/lab4/SeaBoat.java" afterDir="false" />
+    <list default="true" id="7b416e29-9ac3-4d1d-b2a9-8ae097ea897a" name="Default Changelist" comment="add lab4">
+      <change afterPath="$PROJECT_DIR$/src/myPackage/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myPackage/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myPackage/MyOtherClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myPackage/SeaBoatHeir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myPackage/SeaBoatHeir.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ІП_90/_00_Алещенко_Олексій_Вадимович/lab4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_90/_00_Алещенко_Олексій_Вадимович/lab4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ІП_90/_00_Алещенко_Олексій_Вадимович/lab4/SeaBoat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_90/_00_Алещенко_Олексій_Вадимович/lab4/SeaBoat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -57,6 +36,7 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="a086ac60-a96f-4fe2-b187-8320befdfac6" />
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -89,13 +69,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -115,7 +97,16 @@
       <option name="presentableId" value="Default" />
       <updated>1613637734817</updated>
       <workItem from="1613637735847" duration="893000" />
+      <workItem from="1614236009507" duration="7232000" />
     </task>
+    <task id="LOCAL-00001" summary="add lab4">
+      <created>1613642465984</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613642465984</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,20 +128,22 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add new personal branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new personal branch" />
+    <MESSAGE value="add lab4" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lab4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="539" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613638573896">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="539" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1613638573896" />
-    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1613641034704">
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1614243541008">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1613641034704" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1614243541008" />
     <state x="629" y="310" key="Github.ShareDialog" timestamp="1613637747272">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -159,57 +152,75 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="567" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1613637750814" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1613641900583">
+    <state width="1493" height="324" key="GridCell.Tab.0.bottom" timestamp="1614242725602">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613641900583" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1613641900583">
+    <state width="1493" height="324" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614242725602" />
+    <state width="1493" height="324" key="GridCell.Tab.0.center" timestamp="1614242725602">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613641900583" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1613641900583">
+    <state width="1493" height="324" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1614242725602" />
+    <state width="1493" height="324" key="GridCell.Tab.0.left" timestamp="1614242725602">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613641900583" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1613641900583">
+    <state width="1493" height="324" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1614242725602" />
+    <state width="1493" height="324" key="GridCell.Tab.0.right" timestamp="1614242725602">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613641900583" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1613640428613">
+    <state width="1493" height="324" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1614242725602" />
+    <state width="1493" height="324" key="GridCell.Tab.1.bottom" timestamp="1614242725749">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613640428613" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1613640428613">
+    <state width="1493" height="324" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614242725749" />
+    <state width="1493" height="324" key="GridCell.Tab.1.center" timestamp="1614242725749">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1613640428613" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1613640428613">
+    <state width="1493" height="324" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1614242725749" />
+    <state width="1493" height="324" key="GridCell.Tab.1.left" timestamp="1614242725749">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1613640428613" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1613640428613">
+    <state width="1493" height="324" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1614242725749" />
+    <state width="1493" height="324" key="GridCell.Tab.1.right" timestamp="1614242725749">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1613640428613" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1613639105474">
+    <state width="1493" height="324" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1614242725749" />
+    <state x="490" y="154" width="540" height="524" key="StructurePopup" timestamp="1614243752247">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1613639105474" />
+    <state x="490" y="154" width="540" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1614243752247" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1613642469266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1613642469266" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1614237589423">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1614237589423" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ІП_90/_00_Алещенко_Олексій_Вадимович/lab4/Main.java</url>
-          <line>26</line>
+          <line>81</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ІП_90/_00_Алещенко_Олексій_Вадимович/lab4/Main.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="2" />
+          <line>65</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ІП_90/_00_Алещенко_Олексій_Вадимович/lab4/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="seaBoats" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
