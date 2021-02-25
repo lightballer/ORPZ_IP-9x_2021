@@ -5,12 +5,21 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
-        Shape circle = new Circle(1, 1,1, 1);
-        int[] coordinates1 = circle.get();
-        System.out.println(Arrays.toString(coordinates1));
+        Graphics circle = new Circle();
+        Graphics circleWindows = new DecoratorWindow((circle));
+        Graphics house = new DecoratorHouse(circleWindows);
+        Graphics circleWindowCar = new DecoratorCar(circleWindows);
+        System.out.println();
 
-        Shape rectangle = new Rectangle(2, 2,2, 2);
-        int[] coordinates2 = rectangle.get();
-        System.out.println(Arrays.toString(coordinates2));
+        Shape rectangle = new Rectangle();
+        Graphics rectangleWheels = new DecoratorWheels(rectangle);
+        DecoratorCar car = new DecoratorCar(rectangleWheels);
+        System.out.println();
+        
+        Graphics rectangleWindows = new DecoratorWindow((rectangle));
+        car = new DecoratorCar(rectangleWindows);
+        car.ride();
+        System.out.println();
+
     }
 }
