@@ -9,7 +9,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class Main {
-    public static void main(String[] args, List list1) {
+    public static void main(String[] args/*, List list1*/) throws CloneNotSupportedException {
         /*ArrayList arrayList = new ArrayList<String>();
         ArrayList<String> arrayListString = arrayList;
         List list = arrayList;
@@ -54,16 +54,24 @@ public class Main {
 //        var seaBoats = new SeaBoat[3];
 //        var seaBoats = {new SeaBoat()};
         SeaBoat[] seaBoats = {
-                new SeaBoat(2, 2, "B"),
+                new SeaBoat(1, 1, "C"),
                 new SeaBoat(1, 1, "C"),
                 new SeaBoat(1, 2, "A"),
         };
 
 //        System.out.println(seaBoats[0] < seaBoats[1]);
-        System.out.println(seaBoats[0].compareTo(seaBoats[1]));
+//        System.out.println(seaBoats[0].compareTo(seaBoats[1]));
 //        System.out.println(seaBoats[0].compareTo("A"));
+        System.out.println(seaBoats[0].hashCode());
+        System.out.println(seaBoats[0].clone().hashCode());
+        System.out.println(seaBoats[1].hashCode());
+//        System.out.println(seaBoats[0] == seaBoats[1]);
+//        System.out.println(seaBoats[0].equals(seaBoats[1]));
+//        SeaBoat o = null;
+//        System.out.println(o.equals(seaBoats[1]));
 
-        Arrays.sort(seaBoats);
+//        Arrays.sort(seaBoats);
+        System.out.println(Arrays.toString(seaBoats));
 
         /*MyInterface myInterface = new SeaBoatHeir(1, 1, "A");
         System.out.println("int = " + myInterface.getInt());
