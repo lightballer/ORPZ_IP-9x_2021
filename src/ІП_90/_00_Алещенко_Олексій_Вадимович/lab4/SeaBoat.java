@@ -17,6 +17,14 @@ public class SeaBoat implements Comparable<SeaBoat>, Cloneable {
     /*public SeaBoat() {
     }*/
 
+    public int getCruisingSpeed() {
+        return cruisingSpeed;
+    }
+
+    public String getName() {
+        return name;
+    }
+
     protected void myMethod() {
         System.out.println("IN SeaBoat");
     }

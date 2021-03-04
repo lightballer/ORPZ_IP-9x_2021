@@ -6,10 +6,14 @@ import myPackage.SeaBoatHeir;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Comparator;
 import java.util.List;
 
 public class Main {
     public static void main(String[] args/*, List list1*/) throws CloneNotSupportedException {
+        /*int[] array = new int[4];
+        System.out.println(array.length);*/
+
         /*ArrayList arrayList = new ArrayList<String>();
         ArrayList<String> arrayListString = arrayList;
         List list = arrayList;
@@ -54,7 +58,7 @@ public class Main {
 //        var seaBoats = new SeaBoat[3];
 //        var seaBoats = {new SeaBoat()};
         SeaBoat[] seaBoats = {
-                new SeaBoat(1, 1, "C"),
+                new SeaBoat(2, 1, "C"),
                 new SeaBoat(1, 1, "C"),
                 new SeaBoat(1, 2, "A"),
         };
@@ -62,15 +66,29 @@ public class Main {
 //        System.out.println(seaBoats[0] < seaBoats[1]);
 //        System.out.println(seaBoats[0].compareTo(seaBoats[1]));
 //        System.out.println(seaBoats[0].compareTo("A"));
-        System.out.println(seaBoats[0].hashCode());
+/*        System.out.println(seaBoats[0].hashCode());
         System.out.println(seaBoats[0].clone().hashCode());
-        System.out.println(seaBoats[1].hashCode());
+        System.out.println(seaBoats[1].hashCode());*/
 //        System.out.println(seaBoats[0] == seaBoats[1]);
 //        System.out.println(seaBoats[0].equals(seaBoats[1]));
 //        SeaBoat o = null;
 //        System.out.println(o.equals(seaBoats[1]));
 
 //        Arrays.sort(seaBoats);
+        System.out.println(Arrays.toString(seaBoats));
+        Arrays.sort(seaBoats, new Comparator<SeaBoat>() {
+            @Override
+            public int compare(SeaBoat o1, SeaBoat o2) {
+                return o1.getCruisingSpeed() - o2.getCruisingSpeed();
+            }
+        });
+        System.out.println(Arrays.toString(seaBoats));
+        Arrays.sort(seaBoats, new Comparator<SeaBoat>() {
+            @Override
+            public int compare(SeaBoat o1, SeaBoat o2) {
+                return -o1.getName().compareTo(o2.getName());
+            }
+        });
         System.out.println(Arrays.toString(seaBoats));
 
         /*MyInterface myInterface = new SeaBoatHeir(1, 1, "A");
