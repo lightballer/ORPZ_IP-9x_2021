@@ -7,8 +7,84 @@
   <component name="ChangeListManager">
     <list default="true" id="7b416e29-9ac3-4d1d-b2a9-8ae097ea897a" name="Default Changelist" comment="update lab4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ІП_90/_00_Алещенко_Олексій_Вадимович/lab4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_90/_00_Алещенко_Олексій_Вадимович/lab4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ІП_90/_00_Алещенко_Олексій_Вадимович/lab4/SeaBoat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_90/_00_Алещенко_Олексій_Вадимович/lab4/SeaBoat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/composite/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/composite/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/composite/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/composite/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/composite/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/composite/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/composite/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/composite/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/composite/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/composite/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/composite/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/composite/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/composite/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/composite/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/composite/lab3_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/composite/lab3_2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/composite/out/production/lab3_2/com/company/Component.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/composite/out/production/lab3_2/com/company/Component.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/composite/out/production/lab3_2/com/company/Composite.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/composite/out/production/lab3_2/com/company/Composite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/composite/out/production/lab3_2/com/company/Leaf.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/composite/out/production/lab3_2/com/company/Leaf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/composite/out/production/lab3_2/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/composite/out/production/lab3_2/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/composite/src/com/company/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/composite/src/com/company/Component.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/composite/src/com/company/Composite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/composite/src/com/company/Composite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/composite/src/com/company/Leaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/composite/src/com/company/Leaf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/composite/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/composite/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/decorator/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/decorator/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/decorator/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/decorator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/decorator/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/decorator/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/decorator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/decorator/2-lab3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/2-lab3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/decorator/out/production/2-lab3/com/company/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/out/production/2-lab3/com/company/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/decorator/out/production/2-lab3/com/company/DecoratorBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/out/production/2-lab3/com/company/DecoratorBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/decorator/out/production/2-lab3/com/company/DecoratorCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/out/production/2-lab3/com/company/DecoratorCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/decorator/out/production/2-lab3/com/company/DecoratorHouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/out/production/2-lab3/com/company/DecoratorHouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/decorator/out/production/2-lab3/com/company/DecoratorWheels.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/out/production/2-lab3/com/company/DecoratorWheels.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/decorator/out/production/2-lab3/com/company/DecoratorWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/out/production/2-lab3/com/company/DecoratorWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/decorator/out/production/2-lab3/com/company/Graphics.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/out/production/2-lab3/com/company/Graphics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/decorator/out/production/2-lab3/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/out/production/2-lab3/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/decorator/out/production/2-lab3/com/company/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/out/production/2-lab3/com/company/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/decorator/out/production/2-lab3/com/company/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/out/production/2-lab3/com/company/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/decorator/src/com/company/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/decorator/src/com/company/DecoratorBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/DecoratorBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/decorator/src/com/company/DecoratorCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/DecoratorCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/decorator/src/com/company/DecoratorHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/DecoratorHouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/decorator/src/com/company/DecoratorWheels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/DecoratorWheels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/decorator/src/com/company/DecoratorWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/DecoratorWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/decorator/src/com/company/Graphics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/Graphics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/decorator/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/decorator/src/com/company/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/decorator/src/com/company/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/proxy/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/proxy/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/proxy/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/proxy/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/proxy/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/proxy/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/proxy/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/proxy/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/proxy/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/proxy/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/proxy/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/proxy/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/proxy/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/proxy/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/proxy/out/production/proxy/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/proxy/out/production/proxy/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/proxy/out/production/proxy/com/company/Proxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/proxy/out/production/proxy/com/company/Proxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/proxy/out/production/proxy/com/company/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/proxy/out/production/proxy/com/company/Service.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/proxy/out/production/proxy/com/company/ServiceInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/proxy/out/production/proxy/com/company/ServiceInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/proxy/proxy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/proxy/proxy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/proxy/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/proxy/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/proxy/src/com/company/Proxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/proxy/src/com/company/Proxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/proxy/src/com/company/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/proxy/src/com/company/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/proxy/src/com/company/ServiceInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/proxy/src/com/company/ServiceInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/flyweight/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab4/flyweight/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/flyweight/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab4/flyweight/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/flyweight/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab4/flyweight/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/flyweight/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab4/flyweight/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/flyweight/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab4/flyweight/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/flyweight/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab4/flyweight/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/flyweight/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab4/flyweight/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/flyweight/flyweight.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab4/flyweight/flyweight.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/flyweight/out/production/flyweight/com/company/Glif.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab4/flyweight/out/production/flyweight/com/company/Glif.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/flyweight/out/production/flyweight/com/company/GlifFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab4/flyweight/out/production/flyweight/com/company/GlifFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/flyweight/out/production/flyweight/com/company/Letter.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab4/flyweight/out/production/flyweight/com/company/Letter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/flyweight/out/production/flyweight/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab4/flyweight/out/production/flyweight/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/flyweight/out/production/flyweight/com/company/StringObj.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab4/flyweight/out/production/flyweight/com/company/StringObj.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/flyweight/src/com/company/Glif.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab4/flyweight/src/com/company/Glif.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/flyweight/src/com/company/GlifFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab4/flyweight/src/com/company/GlifFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/flyweight/src/com/company/Letter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab4/flyweight/src/com/company/Letter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/flyweight/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab4/flyweight/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/flyweight/src/com/company/StringObj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab4/flyweight/src/com/company/StringObj.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +130,27 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workspace\ORPZ_IP-9x_2021\src\ІП_93\_06_Горбунова_Єлизавета_Олександрівна\lab4" />
+      <recent name="C:\workspace\ORPZ_IP-9x_2021" />
+      <recent name="C:\workspace\ORPZ_IP-9x_2021\src\ІП_93\06_Горбунова_Єлизавета_Олександрівна" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ІП_93._06_Горбунова_Єлизавета_Олександрівна.lab4.lab3.decorator.src.com.company.Main" />
+      <module name="ORPZ_IP-9x_2021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ІП_93._06_Горбунова_Єлизавета_Олександрівна.lab4.lab3.decorator.src.com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ІП_90._00_Алещенко_Олексій_Вадимович.lab4.Main" />
       <module name="ORPZ_IP-9x_2021" />
@@ -68,21 +164,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -203,6 +298,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1614244578907" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614842087436">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1614842087436" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1614245347059">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
