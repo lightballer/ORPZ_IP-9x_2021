@@ -5,46 +5,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b416e29-9ac3-4d1d-b2a9-8ae097ea897a" name="Default Changelist" comment="add student's labs">
-      <change afterPath="$PROJECT_DIR$/src/ІП_94/_03_Бокій_Артем_Едуардович/lab3/DownScaler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ІП_94/_03_Бокій_Артем_Едуардович/lab3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ІП_94/_03_Бокій_Артем_Едуардович/lab3/Manupulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ІП_94/_03_Бокій_Артем_Едуардович/lab3/Tool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ІП_94/_03_Бокій_Артем_Едуардович/lab3/Toolbar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ІП_94/_03_Бокій_Артем_Едуардович/lab3/UpScaler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ІП_94/_03_Бокій_Артем_Едуардович/lab4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/myPackage/MyInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/myPackage/MyInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/myPackage/MyList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/myPackage/MyList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/myPackage/MyOtherClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/myPackage/MyOtherClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/myPackage/SeaBoatHeir.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/myPackage/SeaBoatHeir.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_90/_00_Алещенко_Олексій_Вадимович/lab4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_90/_00_Алещенко_Олексій_Вадимович/lab4/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_90/_00_Алещенко_Олексій_Вадимович/lab4/SeaBoat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_90/_00_Алещенко_Олексій_Вадимович/lab4/SeaBoat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/composite/src/com/company/Component.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/composite/src/com/company/Component.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/composite/src/com/company/Composite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/composite/src/com/company/Composite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/composite/src/com/company/Leaf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/composite/src/com/company/Leaf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/composite/src/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/composite/src/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/DecoratorBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/DecoratorBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/DecoratorCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/DecoratorCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/DecoratorHouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/DecoratorHouse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/DecoratorWheels.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/DecoratorWheels.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/DecoratorWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/DecoratorWindow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/Graphics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/Graphics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/decorator/src/com/company/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/proxy/src/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/proxy/src/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/proxy/src/com/company/Proxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/proxy/src/com/company/Proxy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/proxy/src/com/company/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/proxy/src/com/company/Service.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/proxy/src/com/company/ServiceInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab3/proxy/src/com/company/ServiceInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab4/flyweight/src/com/company/Glif.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab4/flyweight/src/com/company/Glif.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab4/flyweight/src/com/company/GlifFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab4/flyweight/src/com/company/GlifFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab4/flyweight/src/com/company/Letter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab4/flyweight/src/com/company/Letter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab4/flyweight/src/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab4/flyweight/src/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab4/flyweight/src/com/company/StringObj.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ORPZ_IP-9x_2021/ІП_93/_06_Горбунова_Єлизавета_Олександрівна/lab4/lab4/flyweight/src/com/company/StringObj.class" afterDir="false" />
-    </list>
+    <list default="true" id="7b416e29-9ac3-4d1d-b2a9-8ae097ea897a" name="Default Changelist" comment="add 3rd lab Bokii" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614851687801</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add 3rd lab Bokii">
+      <created>1615452214561</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615452214561</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,7 +195,8 @@
     <MESSAGE value="add lab4" />
     <MESSAGE value="update lab4" />
     <MESSAGE value="add student's labs" />
-    <option name="LAST_COMMIT_MESSAGE" value="add student's labs" />
+    <MESSAGE value="add 3rd lab Bokii" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 3rd lab Bokii" />
   </component>
   <component name="WindowStateProjectService">
     <state x="539" y="214" key="#com.intellij.fileTypes.FileTypeChooser" />
