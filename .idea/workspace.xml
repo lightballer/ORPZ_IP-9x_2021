@@ -6,13 +6,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b416e29-9ac3-4d1d-b2a9-8ae097ea897a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ІП_94/_03_Бокій_Артем_Едуардович/lab4/DirectoryCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ІП_94/_03_Бокій_Артем_Едуардович/lab4/DirectoryInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ІП_94/_03_Бокій_Артем_Едуардович/lab4/FileCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ІП_94/_03_Бокій_Артем_Едуардович/lab4/FileInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ІП_94/_03_Бокій_Артем_Едуардович/lab4/Subsystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ІП_94/_03_Бокій_Артем_Едуардович/lab5/Aggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ІП_94/_03_Бокій_Артем_Едуардович/lab5/ConcreteAggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ІП_94/_03_Бокій_Артем_Едуардович/lab5/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ІП_94/_03_Бокій_Артем_Едуардович/lab5/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ІП_94/_03_Бокій_Артем_Едуардович/lab4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ІП_94/_03_Бокій_Артем_Едуардович/lab4/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -55,6 +53,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -79,7 +78,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -117,6 +116,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ІП_94._03_Бокій_Артем_Едуардович.lab5.Main" />
+      <module name="ORPZ_IP-9x_2021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ІП_94._03_Бокій_Артем_Едуардович.lab5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ІП_90._00_Алещенко_Олексій_Вадимович.lab4.Main" />
       <module name="ORPZ_IP-9x_2021" />
@@ -132,6 +144,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
@@ -215,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615453314098</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add 4th lab Bokii">
+      <created>1615737291981</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1615737291981</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,7 +270,8 @@
     <MESSAGE value="update lab4" />
     <MESSAGE value="add student's labs" />
     <MESSAGE value="add 3rd lab Bokii" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 3rd lab Bokii" />
+    <MESSAGE value="add 4th lab Bokii" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 4th lab Bokii" />
   </component>
   <component name="WindowStateProjectService">
     <state x="539" y="214" key="#com.intellij.fileTypes.FileTypeChooser" />
