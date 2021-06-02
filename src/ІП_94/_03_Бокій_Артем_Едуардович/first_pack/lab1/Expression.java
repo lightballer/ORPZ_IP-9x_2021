@@ -1,4 +1,4 @@
-package ІП_94._03_Бокій_Артем_Едуардович.lab1;
+package ІП_94._03_Бокій_Артем_Едуардович.first_pack.lab1;
 
 public class Expression {
     private int a;
@@ -22,7 +22,7 @@ public class Expression {
         double result = 0;
         for (int i = a; i <= n; i++) {
             for (int j = b; j <= m; j++) {
-                result += (i + j) / (i - C);
+                result += (double)(i + j) / (i - C);
             }
         }
         return result;

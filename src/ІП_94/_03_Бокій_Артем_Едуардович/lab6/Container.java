@@ -15,7 +15,6 @@ public class Container {
 
     public Object[] executeSorting() {
         System.out.println("Container executeSorting called");
-        containerInterface.getSortedContainer(sortingMethod);
-        return null;
+        return containerInterface.getSortedContainer(sortingMethod);
     }
 }

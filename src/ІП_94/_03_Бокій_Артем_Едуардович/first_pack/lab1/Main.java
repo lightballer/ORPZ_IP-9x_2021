@@ -1,4 +1,4 @@
-package ІП_94._03_Бокій_Артем_Едуардович.lab1;
+package ІП_94._03_Бокій_Артем_Едуардович.first_pack.lab1;
 
 public class Main {
     public static void main(String[] args) {
